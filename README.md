@@ -34,7 +34,7 @@
 ## 📄 Licença  
 The [MIT License](https://github.com/rmcamila/caminho_das_entrelinhas/blob/main/LICENSE) (MIT)
 
-Copyright :copyright: 2025 - Camila Rodrigues
+Copyright :copyright: 2025 - Caminho das Entrelinhas
 
 ---
 
