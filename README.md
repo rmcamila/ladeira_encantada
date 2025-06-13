@@ -26,8 +26,7 @@
 
 ## 🖼️ Preview  
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/F4D35E/333333?text=Bondinho+do+Amor" alt="Preview" width="400">
-  <p><em>(Adicione uma screenshot real depois!)</em></p>
+  <img src="assets/images/preview.png" alt="Tela do projeto" width="600">
 </div>
 
 ---
