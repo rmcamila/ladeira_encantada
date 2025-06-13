@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Como Usar  
-1. Acesse o projeto online: [GitHub Pages](#) *(adicione o link depois de publicar)*  
+1. Acesse o projeto online: [neste link.](https://rmcamila.github.io/ladeira_encantada/) 
 2. Ou baixe o arquivo `index.html` e abra no navegador.  
 
 ---
