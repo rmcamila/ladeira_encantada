@@ -1,4 +1,4 @@
-# 🚋 Estação Caminho das Entrelinhas - Um Passeio Romântico Digital  
+#  🚋 Estação Caminho das Entrelinhas
 
 💛 **Um projeto interativo que simula um convite para um date no bondinho de Santa Teresa!**  
 
@@ -33,8 +33,15 @@
 ---
 
 ## 📄 Licença  
-[MIT](LICENSE) - Sinta-se à vontade para usar e modificar!  
+The [MIT License](https://github.com/rmcamila/ladeira_encantada/blob/main/LICENSE) (MIT)
+
+Copyright :copyright: 2025 - Camila Rodrigues
 
 ---
 
-Feito com 💛 por Camila Rodrigues.  
+## Desenvolvedores 👩‍💻
+
+
+ [Camila Rodrigues](https://github.com/rmcamila)
+
+
