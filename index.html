@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bondinho do Amor 🚋💛</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sun"></div>
+    <div class="nuvens"></div>
+    <div class="hills"></div>
+
+    <div class="container">
+        <h1>Bondinho do Amor</h1>
+        
+        <div class="bondinho-interativo" id="bondinhoInterativo">
+            <img src="assets/bondinho.svg" alt="Bondinho">
+        </div>
+        
+        <div id="messageContainer" style="display: none;">
+            <p class="message">
+                Tem um bondinho saindo agora pra Santa Teresa...<br>
+                topa embarcar num date comigo? 💛
+            </p>
+            <div class="btn-container">
+                <button class="btn btn-yes" id="btnYes">Partiu! 😍</button>
+                <button class="btn btn-no" id="btnNo">Desce aqui 😅</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Fogos de artifício -->
+    <canvas id="fireworks" class="fireworks"></canvas>
+    
+    <!-- Corações partidos -->
+    <div class="broken-hearts" id="brokenHearts"></div>
+    
+    <!-- Mensagens de resposta -->
+    <div class="response-message" id="positiveResponse">
+        <button class="close-btn" id="closePositive">×</button>
+        <h2 style="font-family: 'Pacifico', cursive; margin-bottom: 15px; color: #FF968A;">Maravilha! 💖</h2>
+        <p>Prepare-se para um passeio incrível!<br>O bondinho da paixão está chegando na sua estação...</p>
+    </div>
+    
+    <div class="response-message" id="negativeResponse">
+        <button class="close-btn" id="closeNegative">×</button>
+        <h2 style="font-family: 'Pacifico', cursive; margin-bottom: 15px; color: #666;">Poxa... 😢</h2>
+        <p>Tudo bem... mas perdeu o bondinho da paixão 🚋💔</p>
+        <p style="margin-top: 10px; font-size: 0.9rem;">(O próximo só daqui a 30 dias!)</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
