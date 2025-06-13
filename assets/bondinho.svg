@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 60'>
+    <rect x='20' y='10' width='60' height='30' rx='3' fill='#F4D35E'/>
+    <rect x='25' y='15' width='10' height='20' fill='#A9DEF9'/>
+    <rect x='65' y='15' width='10' height='20' fill='#A9DEF9'/>
+    <circle cx='35' cy='40' r='5' fill='#333'/>
+    <circle cx='65' cy='40' r='5' fill='#333'/>
+    <line x1='30' y1='5' x2='40' y2='10' stroke='#333' stroke-width='1'/>
+    <line x1='70' y1='5' x2='60' y2='10' stroke='#333' stroke-width='1'/>
+</svg>
