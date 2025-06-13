@@ -1,4 +1,4 @@
-# 🚋 Bondinho do Amor - Um Passeio Romântico Digital  
+# 🚋 Estação Caminho das Entrelinhas - Um Passeio Romântico Digital  
 
 💛 **Um projeto interativo que simula um convite para um date no bondinho de Santa Teresa!**  
 
@@ -14,13 +14,13 @@
 ## 🎨 Tecnologias Usadas  
 - **HTML5** & **CSS3** (animações, variáveis CSS, gradientes)  
 - **JavaScript** (interações, efeitos visuais)  
-- **SVG Inline** (bondinho e cenário)  
+- **SVG Externos** (bondinho, colinas e nuvens) 
 
 ---
 
 ## 🚀 Como Usar  
 1. Acesse o projeto online: [neste link.](https://rmcamila.github.io/ladeira_encantada/) 
-2. Ou baixe o arquivo `index.html` e abra no navegador.  
+2. Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/medeiroscamila/ladeira-encantada).
 
 ---
 
