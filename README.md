@@ -19,8 +19,8 @@
 ---
 
 ## 🚀 Como Usar  
-1. Acesse o projeto online: [neste link.](https://rmcamila.github.io/ladeira_encantada/) 
-2. Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/rmcamila/ladeira_encantada.git).
+1. Acesse o projeto online: [neste link.](https://rmcamila.github.io/caminho_das_entrelinhas/)
+2. Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/rmcamila/caminho_das_entrelinhas.git).
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ## 📄 Licença  
-The [MIT License](https://github.com/rmcamila/ladeira_encantada/blob/main/LICENSE) (MIT)
+The [MIT License](https://github.com/rmcamila/caminho_das_entrelinhas/blob/main/LICENSE) (MIT)
 
 Copyright :copyright: 2025 - Camila Rodrigues
 
