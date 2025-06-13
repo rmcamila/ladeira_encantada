@@ -20,7 +20,7 @@
 
 ## 🚀 Como Usar  
 1. Acesse o projeto online: [neste link.](https://rmcamila.github.io/ladeira_encantada/) 
-2. Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/medeiroscamila/ladeira-encantada).
+2. Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/rmcamila/ladeira_encantada.git).
 
 ---
 
